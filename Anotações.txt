@@ -1,0 +1,1 @@
+GitBash é um aplicativo que fornece experiência de linha de comando Git no sistema operacional.
